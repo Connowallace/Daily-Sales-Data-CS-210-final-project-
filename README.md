@@ -1,7 +1,5 @@
 # 8-1-Portfolio
 
-# Please note this project is a Visual Studio project using C++ and Python. These are the set up instructions I used: https://www.youtube.com/watch?v=yV5x_Ij_npo
-
 # Summarize the project and what problem it was solving.
 Project 3 from CS 210:
 
@@ -40,3 +38,6 @@ The Python script could be reused to analyze text files in the same format.
 The Python script could be adapted to analyze text files in similar formats.
 The Python script could be adapted to do different analysis using a different data structure.
 The input validation could be reused and adapted for many other programs.
+
+# Please note this project is a Visual Studio project using C++ and Python. These are the set up instructions I used: https://www.youtube.com/watch?v=yV5x_Ij_npo
+
